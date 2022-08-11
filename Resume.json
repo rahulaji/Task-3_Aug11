@@ -1,0 +1,72 @@
+{
+    "Resume":{
+        "FirtsName":"Rahul",
+        "LastName":"U",
+        "EmailId":"riorahuljith@gmail.com",
+        "MobileNumber":"xxxxxxxxxx",
+    },
+    "CarrierObjective":"Obtain a responsile postion in an organisation with best capabilities,skills and knowledge",
+    {
+        "Education":
+        {
+            "SSLC":
+            {
+                "Instituion":"Agn matric higher secondary school",
+                "Year of passing":"2013",
+                "NameOfBoard":"stateBoard",
+                "Aggregate":"78%",
+            },
+            "HSC":{
+                "Instituion":"Agn matric higher secondary school",
+                "Year of passing":"2015",
+                "NameOfBoard":"stateBoard",
+                "Aggregate":"72%",
+            },
+            "Degree":
+            {
+                "Instituion":"JayaEngineeringCollege",
+                "Steam":"Mechanical Engineering",
+                "Year of passing":"2019",
+                "University":"AnnaUniversity",
+                "Aggregate":"66%",
+            },
+            "WorkExpirence":"Fresher",
+            "TechniacalSkills":{
+                "ProgrammingLanguages":"JavaScript,CSS,HTML,C++",
+                "AdditionalCertificates":"DigitalMarketing",
+            },
+            "Internship":"AntiBrackingSystem,SafetyInAutomobiles",
+            "PersonalInformation":{
+                "DateOfBirth":"22/11/1996",
+                "Gender":"Male",
+                "MaritalStatus":"Single",
+                "FathersName":"Uthayakumar",
+                "MothersName":"Shanthi U",
+                "LanguagesKnown":"Tamil,English",
+                "Hobbies":"ReadingBooks",
+                "Address":{
+                    "line1":"Mottur",
+                    "line2":"Koranampatti(po)",
+                    "line3":"Edappadi(tk)",
+                    "district":"Salem(dt)",
+                    "pincode":"637102"
+                },
+            },
+            "Declaration":"I do hereby declare that all de above hmished information is óue to the best of my
+            knoedge and belief",
+            "Place":"Chennai",
+            "Date":"11/08/2022",
+            "Signature":"RAHUL"
+            
+            }
+
+
+
+
+        }
+    }
+    {
+        
+
+    }
+}
