@@ -1,0 +1,45 @@
+//Json Itterate through loops
+     //JSON FILE
+ var movies=[
+    {
+        "Tittle":"pirates of carribean",
+        "Year"  :"2002",
+        "Ratings":"5 star",
+        "Director":"gore Verbinski",
+        "Actor": "jhonny deep"
+    },
+    {
+        "Tittle":"SpiderMan",
+        "Year"  :"2003",
+        "Ratings":"4.5 star",
+        "Director":"Sam Raimi",
+        "Actor": "Tobey Maguri" 
+    },
+    {
+        "Tittle":"Hulk",
+        "Year"  :"2003",
+        "Ratings":"4.0 star",
+        "Director":"Ang lee",
+        "Actor":"Eric Bana"
+    }
+ ]
+
+      json parse over to the javascript objets
+ //itteration over ForLoop
+ for (i=0; i<movies.length; i++){
+    document.write(
+        movies.title 
+    );
+ }
+
+
+ //itteration over ForIn
+ for (let Year in movies) {
+    console.log(Year+ ": "+ movies[Year])
+ }
+
+ //itteration over ForEach
+ { Object.keys(data).forEach(function(key) {
+    console.log('Key : ' + key + ', Value : ' + data[key])
+}
+
